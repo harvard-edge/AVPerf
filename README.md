@@ -1,4 +1,6 @@
 # AV Benchmarks
+![Scenes](https://github.com/harvard-edge/AVPerf/blob/main/images/Scenes.png)
+
 This project aims to create an AV benchmarks suite to evaluate AV system. We adopt the state-of-the-art Apollo AV stack and create three safety-critical scenes to conduct end-to-end analysis. We collect AV metrics, including collision, minimum distance, and safe end-to-end processing rate to evaluate the AV system on different scenes.
 
 There are three safety-critical scenes listed below:
